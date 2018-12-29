@@ -34,5 +34,5 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  
+  var number = parseInt(n, 10)
 }
